@@ -1,0 +1,4 @@
+Atividade 1: https://colab.research.google.com/drive/1Fywf46ZjQ085X0pfSpgCEgxcTzNPYIWe?usp=sharing
+Atividade 2: https://colab.research.google.com/drive/1HeGh0XgbUcWDIN3vT-26EyHyxbxo3rab?usp=sharing
+Atividade 3: https://colab.research.google.com/drive/15c4cU7_9R8rVqOUIU1N7AwCQl8t1URh_?usp=sharing
+Atividade 4: https://www.kaggle.com/janael/titanic
